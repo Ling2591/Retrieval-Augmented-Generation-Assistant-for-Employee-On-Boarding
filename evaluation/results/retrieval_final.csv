@@ -1,0 +1,44 @@
+﻿id,type,answerable,gold,rank,top_score,top_source
+D01,direct,True,True,1,4.376543045043945,brightline_01_welcome_first_30_days.md
+D02,direct,True,True,1,6.823069095611572,brightline_01_welcome_first_30_days.md
+D03,direct,True,True,1,6.801274299621582,brightline_01_welcome_first_30_days.md
+D04,direct,True,True,1,3.606579065322876,brightline_02_it_setup_guide.md
+D05,direct,True,True,1,6.578259468078613,brightline_02_it_setup_guide.md
+D06,direct,True,True,1,0.8943977355957031,brightline_03_expense_and_travel_policy.md
+D07,direct,True,True,1,7.640380859375,brightline_03_expense_and_travel_policy.md
+D08,direct,True,True,1,3.5397746562957764,brightline_03_expense_and_travel_policy.md
+D09,direct,True,True,1,7.517184734344482,brightline_03_expense_and_travel_policy.md
+D10,direct,True,True,1,7.288258075714111,brightline_07_warehouse_safety_rules.md
+D11,direct,True,True,1,4.046448707580566,brightline_07_warehouse_safety_rules.md
+D12,direct,True,True,1,6.390838623046875,brightline_07_warehouse_safety_rules.md
+D13,direct,True,True,1,5.100085258483887,brightline_07_warehouse_safety_rules.md
+D14,direct,True,True,1,8.228382110595703,brightline_02_it_setup_guide.md
+D15,direct,True,True,1,7.246433258056641,brightline_01_welcome_first_30_days.md
+C01,code,True,True,1,2.245853900909424,brightline_06_product_catalog_and_ordering.md
+C02,code,True,True,1,3.6579270362854004,brightline_06_product_catalog_and_ordering.md
+C03,code,True,True,2,3.040254831314087,brightline_06_product_catalog_and_ordering.md
+C04,code,True,True,1,4.912181377410889,brightline_02_it_setup_guide.md
+C05,code,True,True,3,5.392815589904785,brightline_03_expense_and_travel_policy.md
+C06,code,True,True,1,2.9324135780334473,brightline_02_it_setup_guide.md
+M01,multi,True,True,2,4.571374416351318,brightline_06_product_catalog_and_ordering.md
+M02,multi,True,True,2,4.814912796020508,brightline_07_warehouse_safety_rules.md
+M03,multi,True,True,1,6.7007527351379395,brightline_05_leave_policy_2026.md
+M04,multi,True,True,1,7.683511734008789,brightline_01_welcome_first_30_days.md
+V01,version,True,True,1,8.239664077758789,brightline_05_leave_policy_2026.md
+V02,version,True,True,1,9.825971603393555,brightline_05_leave_policy_2026.md
+V03,version,True,True,1,7.686659336090088,brightline_05_leave_policy_2026.md
+V04,version,True,True,1,8.983171463012695,brightline_05_leave_policy_2026.md
+Z01,vague,True,True,13,2.430182456970215,basecamp_how-we-work.md
+Z02,vague,True,True,1,0.3302106261253357,brightline_02_it_setup_guide.md
+Z03,vague,True,True,17,-7.961173057556152,dwarves_earn.md
+Z04,vague,True,True,,5.621683120727539,clef_Onboarding.md
+Z05,vague,True,True,1,-1.023161768913269,brightline_02_it_setup_guide.md
+U01,unanswerable,False,False,,-4.124364376068115,clef_At-Will Employment.md
+U02,unanswerable,False,False,,0.6939965486526489,clef_Referral Bonuses.md
+U03,unanswerable,False,False,,-8.733942985534668,dwarves_marketing-assets.md
+U04,unanswerable,False,False,,0.30227553844451904,brightline_06_product_catalog_and_ordering.md
+U05,unanswerable,False,False,,-6.79168701171875,dwarves_asset-request.md
+U06,unanswerable,False,False,,-7.617991924285889,Added Bytes_Holidays _Added Bytes Company Handbook.pdf
+G01,general,False,False,,-11.176948547363281,clef_Guide to Your Equity.md
+G02,general,False,False,,-1.8169476985931396,brightline_02_it_setup_guide.md
+G03,general,False,False,,-10.54617691040039,basecamp_titles-for-designers.md

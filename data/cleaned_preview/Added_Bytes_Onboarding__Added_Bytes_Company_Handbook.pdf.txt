@@ -1,0 +1,105 @@
+[page 2]
+# Added Bytes Onboarding Added Bytes Company Handbook
+
+In Advance - Tasks for Added Bytes
+Before our lovely new employee joins up, the following tasks should be completed for them.
+Set up employee email. Email the login credentials to their personal email address☐
+Invite them to Slack, Zoho One and Crisp☐
+Send them password manager instructions☐
+Set up a welcome task in Zoho One for new employee to complete☐
+Confirm we have payroll information, tax information, copy of ID and bank account details
+☐
+
+[page 3]
+Tasks for New Employee
+In your first week, we want you to familiarise yourself with the company, its products and its people. Work through this list in order, but don't feel you have to rush. It's OK to take some time to read older entries in Slack, to read up on software where you're not familiar with it already, to watch introduction videos if that is what works for you.
+Getting Started
+Slack
+Read and print this document, then tick the items off as you go☐
+Log in to your email☐
+Change your email password and set up two-factor authentication☐
+Register with the password manager: follow the password manager instructions in your email to gain access to shared passwords
+☐
+If you're not reading this online, have a quick look at the handbook at handbook.addedbytes.com (you don't need to read the whole thing right now, though you can if you want)
+☐
+Accept the invitation to Slack in your inbox☐
+Complete your profile on Slack, including a profile picture and your timezone☐
+If you aren't familiar with Slack, check out their excellent introduction - [Slack 101]
+(https://slack.com/resources/slack-101)
+☐
+Introduce yourself on Slack in #team and let us know roughly when you are working this week
+☐
+
+[page 4]
+(We want you to set up your profile and picture in the apps we use every day because it makes working remotely more personal, and that's good for everybody. If you don't feel comfortable using a photo of yourself, please pick something as distinctive as possible! Try to use the same profile picture in all apps.)
+Zoho One
+Crisp
+Show us in #remote on Slack where you're working☐
+Accept the invitation to Zoho One☐
+Complete your profile on Zoho One, including a profile picture☐
+Complete "Welcome, Yourname" task in Zoho One☐
+Create task and assign it to Dave in Zoho One☐
+Check out the various Zoho One boards - they will give you some idea of what everybody is working on at the moment
+☐
+Accept the invitation to Crisp☐
+Complete your profile on Crisp, including a profile picture (Avatar)☐
+Set up two-factor authentication on Crisp☐
+Send an email to hi@readable.com (make sure to say in the email body that this is a test)
+☐
+Find the email you sent in Crisp☐
+Add a note in the Crisp "Note" tab saying something like "@Zoho One Test task for me"
+☐
+
+[page 5]
+Remote Working
+Head on back to Zoho One. Within a couple of minutes your note should appear in
+Zoho One as a task
+☐
+Mark this new Zoho One task as complete☐
+Head back to Crisp. Within a couple of minutes, your Crisp ticket should acknowledge that Zoho One received the ticket as a task and that it has now been completed
+☐
+Well done, that's how we send customer feedback into the development system. Mark this Crisp ticket as resolved
+☐
+Head on back to Slack and gloat about knocking off a couple of tasks on your first day
+:)
+☐
+Time to check out the handbook. If you have any questions or feedback, use the
+#handbook Slack channel.
+☐
+Start by reading the "Our Values" document☐
+Read the "How To Work Remotely" document☐
+Read the "Asynchronous Communication" document☐
+If Dave has not yet removed your job from the job listing in the handbook, add a task in Zoho One for him to get rid of it and assign it to him.
+☐
+We use an app called WhereBy for virtual meetings. Post a message in #remote saying you'd like to have a virtual chat and try WhereBy, and arrange a video chat.
+☐
+Tick this off once you've had your first video chat. Bonus points if any children make an appearance in any video chat.
+☐
+We encourage you to have a one-on-one video chat with all of the people you'll be working closely with, in your first week or so, so you can get to know them and put
+☐
+
+[page 6]
+Others
+We use a whole host of other apps, so please feel free to ask for an invite to whichever of these you need access to:
+faces to names.
+Accept the invitation to Readable☐
+Head to https://app.readable.com/text/ and take the tour linked on the right☐
+Paste some text into Readable and familiarise yourself with the scores you see☐
+Upload a Word doc or PDF to score☐
+Score a URL in Readable☐
+Export a PDF or CSV report of some scores☐
+BitBucket (Git repository hosting)☐
+Google Analytics (website usage statistics)☐
+Stripe (payment processing system)☐
+Profitwell (subscription statistics)☐
+SuggestionOx (anonymous customer cancellation feedback)☐
+Cloudflare (CDN)☐
+Linode (VPS hosting)☐
+Zonomi (DNS hosting)☐
+
+[page 7]
+All Done!
+Well done, that's a basic introduction to our software and systems. This is a living document, so if you think we should change anything let us know in #handbook in Slack.
+Healthchecks (cronjob monitoring)☐
+Uptime Robot (uptime monitoring)☐
+Zonomi (DNS hosting)☐

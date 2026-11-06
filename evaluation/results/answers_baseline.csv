@@ -1,0 +1,263 @@
+﻿id,type,answerable,config,question,status,answer,auto_correct,refused,unsupported,gold_rank,sources,tokens,seconds,human_correct,human_grounded,notes
+D01,direct,yes,baseline,Where do I collect my laptop on my first day?,baseline,"You can pick up your laptop from the **IT Support desk on the 2nd floor of the Main Office** during regular business hours (8 AM – 5 PM). When you arrive, just let the receptionist know you’re here for “new-hire equipment,” and they’ll direct you to the desk. If you have any trouble, call the IT help line at extension 212. Welcome aboard!",no,no,,,,200,1.0,,,
+D02,direct,yes,baseline,How long is the probation period?,baseline,The standard probation period is **90 days** (three months) from your start date.,yes,no,,,,131,0.4,,,
+D03,direct,yes,baseline,What day of the month is salary paid?,baseline,"Salary is typically paid on the **25th of each month**. If that date falls on a weekend or holiday, the payment is usually processed on the preceding business day. If you have a different arrangement in your contract, please refer to it or contact HR for confirmation.",yes,no,,,,181,0.7,,,
+D04,direct,yes,baseline,How long must my password be?,baseline,The minimum length is **12 characters**. We recommend using a longer passphrase (15-20 characters) for added security.,no,no,,,,137,0.6,,,
+D05,direct,yes,baseline,Who has to use a hardware security key instead of the authenticator app?,baseline,"Only users with **privileged or high-risk accounts**—such as administrators, security officers, and anyone who accesses sensitive company resources—are required to use a hardware security key instead of the standard authenticator app. This extra factor provides stronger protection for accounts that could cause the greatest impact if compromised.",no,no,,,,187,0.5,,,
+D06,direct,yes,baseline,What is the maximum hotel cost per night in London?,baseline,"The maximum hotel cost per night in London can vary widely depending on the hotel's star rating, location, and time of year. As a general guideline:
+
+- **Budget hotels/hostels:** up to £100–£150 per night  
+- **Mid-range hotels (3–4 stars):** £150–£300 per night  
+- **Luxury hotels (4–5 stars):** £300–£800+ per night  
+- **Ultra-luxury or boutique properties:** £800–£2,000+ per night  
+
+For the most accurate and up-to-date figures, check current rates on hotel booking platforms or the hotels’ own websites, as prices fluctuate with demand, events, and seasonal promotions.",no,no,,,,281,0.9,,,
+D07,direct,yes,baseline,How soon after an expense do I need to submit the claim?,baseline,"You should submit your expense claim **within 30 days** of the date the expense was incurred. This ensures timely processing and reimbursement. If you need an exception, contact the finance team before the 30-day deadline.",yes,no,,,,163,0.4,,,
+D08,direct,yes,baseline,Who needs to approve an expense claim of 500 USD?,baseline,"The expense claim should be approved first by your **direct manager** and then by the **Finance/Accounts Payable team**. If your manager’s approval limit is below $500, the claim will automatically be routed to Finance for final approval.",yes,no,,,,177,0.5,,,
+D09,direct,yes,baseline,How much can I claim for a chair or other home office equipment?,baseline,"In the UK you can claim the **actual cost** of a chair or any other home-office equipment you buy for work, provided it’s used **wholly and exclusively** for your job.
+
+- **If you’re an employee** and you’re reimbursed by your employer, you can’t claim it again.  
+- **If you’re self-employed** you can include the full purchase price as a business expense on your Self-Assessment tax return.  
+- **If you’re an employee and not reimbursed**, you can claim the cost as a **“wholly and exclusively” expense** on a Form P87 (or via Self-Assessment if you already file one). There’s no set monetary cap; the amount you spend is the amount you can claim, as long as you keep the receipt and can prove it’s for work.
+
+**Key points to remember**
+
+| Situation | Claim method | Limit |
+|-----------|--------------|-------|
+| Employee, reimbursed by employer | No claim needed | – |
+| Employee, not reimbursed | Form P87 or Self-Assessment | No fixed cap; claim actual cost |
+| Self-employed | Business expense on Self-Assessment | No fixed cap; claim actual cost |
+
+**Tips**
+
+1. Keep the invoice/receipt and note that the item is for work use only.  
+2. If the item is also used privately, you must apportion the cost (e.g., 70 % work / 30 % private). Only the work portion is allowable.  
+3. For items costing **£250 or less**, you can use the **simplified expenses** “flat-rate” method instead of tracking each purchase, but claiming the actual cost is usually more beneficial for a single chair or desk.  
+
+So, the amount you can claim equals the price you paid for the chair or equipment, subject to the “wholly and exclusively for work” rule.",yes,no,,,,520,1.5,,,
+D10,direct,yes,baseline,Do I need steel toe boots in zone F?,baseline,"Yes. Zone F is a high-risk area where heavy objects or equipment can fall, so steel-toe (or equivalent protective) boots are required.",yes,no,,,,159,0.6,,,
+D11,direct,yes,baseline,How quickly must I report a workplace incident?,baseline,"You should report any workplace incident **as soon as possible—ideally within the same shift or no later than 24 hours** after it occurs. Prompt reporting helps ensure safety, accurate documentation, and compliance with company policies and legal requirements. If your employer has a specific timeframe in its incident-reporting policy, follow that, but never delay beyond the next business day.",yes,no,,,,189,0.8,,,
+D12,direct,yes,baseline,What is the heaviest weight one person may lift alone?,baseline,"The heaviest weight ever lifted by a single person in a verified attempt is **1,102 kg (2,425 lb)**, achieved by **Hafþór Júlíus Björnsson** in a deadlift on May 2 2020.",no,no,,,,237,0.7,,,
+D13,direct,yes,baseline,Which certification do I need to drive a forklift?,baseline,"You need an **OSHA-compliant forklift operator certification** (often called a “Powered Industrial Truck” or “PIT” certification). It requires a short classroom/online portion, a practical skills test, and a final evaluation. After passing, you’ll receive a certification card that must be renewed every 3 years.",no,no,,,,184,0.7,,,
+D14,direct,yes,baseline,What are the support hours of the IT Helpdesk?,baseline,"The IT Helpdesk provides support **Monday through Friday, 8 AM – 6 PM local time**. Outside these hours you can submit a ticket through the portal, and we’ll respond on the next business day.",no,no,,,,164,0.6,,,
+D15,direct,yes,baseline,How long do I have to enroll in company benefits?,baseline,"You generally have **30 days from your hire date** (or from the start of the benefits enrollment window) to sign up for the company’s health, dental, vision, and other voluntary benefits. If you miss that initial window, you’ll need to wait for the next open enrollment period (usually once a year) or qualify for a special enrollment due to a life-event (e.g., marriage, birth, loss of other coverage). If you’re unsure of your exact deadline, check your welcome packet or contact HR directly.",no,no,,,,233,0.8,,,
+C01,code,yes,baseline,What is the price of item ITM-20417?,baseline,"I’m sorry, but I don’t have access to pricing information for that item. Please contact the sales or support team for the current price of ITM-20417.",no,yes,,,,155,0.5,,,
+C02,code,yes,baseline,Which warehouse bin holds ITM-10016?,baseline,"I’m sorry, but I don’t have information on which warehouse bin holds item ITM-10016. Please check your inventory system or contact the warehouse manager for the specific location.",no,yes,,,,166,0.4,,,
+C03,code,yes,baseline,What is the lead time for item ITM-10012?,baseline,"The typical lead time for item **ITM-10012** is **7 business days** from order receipt. If you need a more precise estimate (e.g., based on current inventory or special shipping requirements), please let us know!",no,no,,,,181,0.6,,,
+C04,code,yes,baseline,What does error code VPN-807 mean and how do I fix it?,baseline,"**VPN-807 – “Connection failed – the remote server is unreachable.”**  
+
+### What it means
+The VPN client cannot reach the VPN gateway. This is usually a network-level problem, not a client-side configuration error.
+
+### Common causes
+| Cause | How to check |
+|-------|--------------|
+| **Internet connectivity** – no or unstable internet on the client device. | Open a browser, ping a public site (e.g., `8.8.8.8`). |
+| **Wrong VPN server address** – typo or outdated DNS entry. | Verify the server hostname/IP in the VPN profile. |
+| **Firewall / proxy blocking VPN ports** – UDP/TCP 500, 4500 (IPsec) or 443 (SSL-VPN). | Temporarily disable local firewall/antivirus or ask network admin to allow the ports. |
+| **Corporate network restrictions** – outbound VPN traffic blocked. | Try connecting from a different network (home Wi-Fi, mobile hotspot). |
+| **VPN gateway down** – service not running or overloaded. | Ask the IT team or check the service status page. |
+| **Mismatched MTU** – especially on Wi-Fi or satellite links. | Reduce MTU to 1400 – 1450 in the VPN client settings. |
+
+### Quick troubleshooting steps
+1. **Confirm internet works** – browse the web.
+2. **Ping the VPN server**  
+   ```bash
+   ping <vpn-server-hostname-or-IP>
+   ```  
+   No reply → network issue or wrong address.
+3. **Test the VPN port** (replace `<port>` with the one your VPN uses)  
+   ```bash
+   telnet <vpn-server> <port>
+   ```  
+   Connection refused/timed-out → firewall or server down.
+4. **Switch network** – connect from a different Wi-Fi, Ethernet, or mobile hotspot.
+5. **Temporarily disable local firewall/antivirus** (or add an exception for the VPN client).
+6. **Check VPN client logs** – look for “timeout”, “blocked”, or “unreachable”.
+7. **Contact IT** if steps 1-6 don’t resolve it; provide the logs and the results of the ping/port tests.
+
+### Permanent fix (once the root cause is known)
+- **Update the VPN server address** in the client profile if it changed.  
+- **Ask network admins** to open the required ports on the perimeter firewall or proxy.  
+- **Upgrade or patch** the VPN gateway if it’s down or mis-configured.  
+- **Adjust MTU** in the client settings if you consistently see fragmentation errors.  
+
+If you follow the above checklist and still see VPN-807, forward the detailed log file to the IT support team; they can pinpoint whether the gateway itself is offline or if there’s a deeper routing issue.",no,no,,,,719,1.7,,,
+C05,code,yes,baseline,What is expense code EXP-107 used for?,baseline,"Expense code **EXP-107** is designated for **travel-related expenses**, such as airfare, lodging, and ground transportation incurred during business trips.",no,no,,,,159,0.4,,,
+C06,code,yes,baseline,What does software code SW-1004 refer to?,baseline,"SW-1004 is an internal reference code used by our development team to identify a specific software component. In our current catalog it corresponds to the **“DataSync v2.1”** module—a library that handles secure, bidirectional synchronization of user data between the mobile app and the cloud backend. If you need more detailed documentation or support for this module, let me know!",no,no,,,,206,0.5,,,
+M01,multi,yes,baseline,What is the price difference between ITM-20417 and ITM-20418?,baseline,"I’m sorry, but I don’t have the pricing information for those items. Please refer to the company’s product catalog or contact the sales team for the most up-to-date price comparison.",no,yes,,,,168,0.6,,,
+M02,multi,yes,baseline,I am a new warehouse employee. What must I complete before entering the warehouse and what protective gear is needed in zone E?,baseline,"**Before you can enter the warehouse**
+
+1. **Complete all required onboarding steps**  
+   - Submit your signed employment paperwork.  
+   - Finish the online safety & compliance training (including the “Warehouse Basics” module).  
+   - Pass the site-specific orientation (tour, emergency-exit briefing, and hazard-identification walk-through).  
+   - Obtain your employee badge and access card.
+
+2. **Clear any pending health-screening or equipment checks** (e.g., COVID-19 test, vision/hearing screening, forklift-operator certification if applicable).
+
+**Protective gear required in Zone E**
+
+| Item | Requirement |
+|------|--------------|
+| Safety shoes/steel-toe boots | Must meet ASTM F2413-18 Level 1 or higher. |
+| High-visibility vest (Class 2 or 3) | Yellow/green with reflective stripes. |
+| Hard hat (Type I) | Certified to ANSI Z89.1-2014. |
+| Hearing protection | Earplugs or earmuffs (NRR ≥ 22 dB). |
+| Gloves | Cut-resistant (ANSI A2-A5) if handling sharp or abrasive materials. |
+| Eye protection | Safety glasses or goggles (ANSI Z87.1). |
+| Respiratory protection | N95 or higher if dust/particulate exposure is present (check the SDS for the specific material). |
+
+*All PPE must be inspected for damage before each shift and replaced if compromised.*",no,no,,,,442,1.1,,,
+M03,multi,yes,baseline,How many days of annual leave do I get and how far ahead must I request more than 3 consecutive days?,baseline,"You’re entitled to **25 days of paid annual leave per year**.  
+
+If you want to take **more than three consecutive days**, you must submit your request **at least 2 weeks (14 calendar days) in advance**.",no,no,,,,202,0.7,,,
+M04,multi,yes,baseline,How long is probation and how much notice does either side need during probation?,baseline,"**Probation Period:** 6 months  
+
+**Notice to end the employment during probation:**  
+- **Employee:** 1 week’s notice (or pay in lieu)  
+- **Employer:** 1 week’s notice (or pay in lieu)  
+
+Both parties may give notice at any time during the probationary period, provided the minimum one-week notice is observed. After the 6-month probation ends, the standard notice periods in the employee handbook (e.g., 1 month after 2 years of service, 2 months after 5 years, etc.) will apply.",no,no,,,,245,1.5,,,
+V01,version,yes,baseline,How many days of annual leave do I get?,baseline,"The number of annual-leave days you’re entitled to depends on your employment contract and the company’s leave policy (often based on length of service and local labor laws). Check your offer letter, employee handbook, or the HR portal for the exact figure, or contact the HR team directly for confirmation.",no,no,,,,186,0.7,,,
+V02,version,yes,baseline,How many weeks of parental leave does the primary caregiver get?,baseline,The primary caregiver is entitled to **12 weeks of paid parental leave**.,no,no,,,,143,0.6,,,
+V03,version,yes,baseline,After how many days of sick absence do I need a medical certificate?,baseline,"In our company a medical certificate is required if your sick leave extends **beyond three consecutive days**. If you’re absent for three days or fewer, you can simply notify your manager and record the absence in the HR system. If the absence reaches the fourth day, submit a doctor’s note (or an electronic health certificate) to HR.",no,no,,,,196,0.6,,,
+V04,version,yes,baseline,How many public holidays does the company observe each year?,baseline,The company observes **10 public holidays** each year.,no,no,,,,136,0.5,,,
+Z01,vague,yes,baseline,how much time off do i get,baseline,"The amount of paid time off (PTO) you receive depends on your role, length of service, and our company’s policy:
+
+| Tenure | Annual PTO (days) |
+|--------|-------------------|
+| < 1 year | 10 days |
+| 1–3 years | 15 days |
+| 3–5 years | 20 days |
+| 5+ years | 25 days |
+
+* **Sick leave:** 5 days per year (accrues monthly).  
+* **Public holidays:** All company-observed holidays are paid in addition to PTO.  
+* **Carry-over:** Up to 5 unused PTO days can be rolled over to the next calendar year; any excess expires at year-end.  
+
+If you’re a part-time or contract employee, PTO is prorated based on your scheduled hours. For exact figures for your position, check the employee handbook or contact HR.",yes,no,,,,318,1.0,,,
+Z02,vague,yes,baseline,vpn not working help,baseline,"Sure, let’s troubleshoot the VPN quickly:
+
+1. **Check your internet connection** – Make sure you can browse the web without the VPN.
+2. **Restart the VPN client** – Close the app, wait a few seconds, then open it again.
+3. **Verify credentials** – Confirm your username/password or certificate haven’t expired.
+4. **Select a different server/location** – The current endpoint may be down.
+5. **Check firewall/antivirus** – Ensure they aren’t blocking the VPN’s ports (usually UDP 1194 for OpenVPN, UDP 500/4500 for IPSec, TCP 443 for SSL-VPN).
+6. **Update the client** – Install the latest version of the VPN software.
+7. **Run a network diagnostics** (Windows: `netsh winsock reset` → reboot; macOS: `sudo ifconfig <interface> down && up`).
+
+If it still fails, please reply with:
+
+- Your operating system (Windows/macOS/Linux)
+- VPN client name and version
+- Any error message you see
+
+I’ll guide you from there.",no,no,,,,341,1.0,,,
+Z03,vague,yes,baseline,can i get paid back for my train ticket,baseline,"The ability to be reimbursed for a train ticket depends on your company’s travel-expense policy and the reason for the request (e.g., business travel, cancelled service, or personal error).  
+
+**Typical steps to find out if you’re eligible:**
+
+1. **Check the policy** – Look in the employee handbook or the “Travel & Expenses” section of the intranet for rules on train travel reimbursement.  
+2. **Gather documentation** – You’ll usually need the original ticket receipt, proof of payment, and a brief explanation of why you’re requesting a refund.  
+3. **Submit a claim** – Use the company’s expense-reporting tool (e.g., Concur, Expensify) and attach the documents.  
+4. **Approval** – The claim is reviewed by your manager and finance; if approved, the amount is added to your next payroll or reimbursed via direct deposit.  
+
+If the ticket was for personal travel or the policy excludes train reimbursements, the claim will be denied. If you’re unsure, contact your HR or Finance representative for clarification.",no,no,,,,341,1.0,,,
+Z04,vague,yes,baseline,first day what do i do,baseline,"Welcome to your first day! Here’s a quick checklist to get you settled:
+
+1. **Arrive on time** – check in with reception or your manager.  
+2. **Meet your buddy/mentor** – they’ll show you around and answer questions.  
+3. **Complete HR paperwork** – ID badge, tax forms, benefits enrollment, etc.  
+4. **Set up your workspace** – log into your computer, email, and any required apps (VPN, Slack, project tools).  
+5. **Attend orientation** – company overview, culture, policies, and safety.  
+6. **Review your role** – go over your job description, immediate priorities, and first-week goals with your manager.  
+7. **Take a tour** – locate restrooms, kitchen, conference rooms, and emergency exits.  
+8. **Ask questions** – anything unclear about processes, tools, or expectations.  
+
+That’s it for day one. Focus on getting connected, understanding the basics, and building relationships. Good luck!",no,no,,,,322,0.9,,,
+Z05,vague,yes,baseline,lost my phone what now,baseline,"If you’ve lost your phone, follow these quick steps:
+
+1. **Secure your accounts**
+   - Use a computer or another device to log into any apps (email, banking, social media) and change passwords or enable two-factor authentication with a new device.
+
+2. **Lock or erase the phone remotely**
+   - **iPhone:** Open [Find My iPhone](https://www.icloud.com/find) → select the device → “Lost Mode” (locks it) or “Erase iPhone.”
+   - **Android:** Open [Find My Device](https://www.google.com/android/find) → select the device → “Secure device” (locks it) or “Erase device.”
+
+3. **Report the loss**
+   - Notify your employer’s IT/security team (they may wipe corporate data or issue a new device).
+   - If the phone contains personal data, consider filing a police report and informing your carrier to suspend service.
+
+4. **Contact your carrier**
+   - Call your mobile provider to suspend the line and request a replacement SIM/phone. They can also blacklist the device to prevent misuse.
+
+5. **Update authentication methods**
+   - Replace any phone-based 2FA with backup codes, authenticator apps on a new device, or hardware tokens.
+
+6. **Backup & restore**
+   - Once you have a new phone, restore data from your cloud backup (iCloud, Google Drive, etc.) and reinstall needed apps.
+
+7. **Monitor for suspicious activity**
+   - Keep an eye on email, banking, and other accounts for any unauthorized access and report anything unusual immediately.
+
+If you need help with any specific step (e.g., setting up remote lock or contacting IT), let me know!",no,no,,,,463,1.4,,,
+U01,unanswerable,no,baseline,What is the name of the company's CEO?,baseline,"I’m sorry, but I don’t have that information.",,yes,,,,133,0.6,,,
+U02,unanswerable,no,baseline,How large is the annual bonus for new employees?,baseline,"The exact amount of the annual bonus for new employees varies by role, location, and performance metrics, so there isn’t a single figure that applies to everyone. If you’d like details for a specific position, I can direct you to the appropriate HR contact or resource.",,no,,,,175,0.7,,,
+U03,unanswerable,no,baseline,What is the office street address?,baseline,I’m sorry—I don’t have the specific office address on file. Could you let me know which location or department you’re referring to? Then I can provide the correct street address.,,yes,,,,163,0.6,,,
+U04,unanswerable,no,baseline,What is the price of item ITM-99999?,baseline,"I’m sorry, but I don’t have access to pricing information for that item.",,yes,,,,137,0.7,,,
+U05,unanswerable,no,baseline,How do I book a company car for a client visit?,baseline,"**Booking a company car for a client visit**
+
+1. **Check Availability**
+   - Open the fleet-management system (e.g., **FleetPortal**, **Concur Travel**, or the internal SharePoint calendar).
+   - Verify that a vehicle is free for the date & time you need.
+
+2. **Gather Required Details**
+   - Date & start/end time of the trip  
+   - Pickup & drop-off locations (office address, client site, airport, etc.)  
+   - Purpose of the trip (e.g., “Client meeting – Acme Corp”)  
+   - Driver (if you need a company driver) or “Self-drive”  
+   - Any special requirements (wheelchair access, extra luggage, GPS, etc.)
+
+3. **Create the Reservation**
+   - In the system, select **“New Booking”** → choose the vehicle class (economy, midsize, SUV) based on the client’s needs.
+   - Fill in the details collected above.
+   - Attach any supporting documents (meeting agenda, client contact sheet) if the system asks.
+
+4. **Approve / Submit**
+   - If your role requires approval, the request will route to your manager or fleet supervisor automatically.
+   - Otherwise, click **“Submit/Confirm”** to lock the reservation.
+
+5. **Confirm & Communicate**
+   - You’ll receive a confirmation email with the reservation number.
+   - Forward the confirmation (or print it) to the driver or to the client contact, and note the car’s license plate and any key-pickup instructions.
+
+6. **Pre-Trip Checklist (day of travel)**
+   - Verify the car is clean, fueled, and has a valid insurance tag.  
+   - Ensure the driver has the reservation number and client contact details.  
+   - Confirm any required safety equipment (first-aid kit, fire extinguisher).
+
+7. **Post-Trip**
+   - Log mileage and fuel receipts in the fleet system.  
+   - Report any issues (damage, incident) to the fleet manager within 24 hours.
+
+**Quick Reference**
+
+| Step | Action | System/Tool |
+|------|--------|-------------|
+| 1 | Check vehicle calendar | FleetPortal / SharePoint |
+| 2 | Gather trip details | Email, calendar invite |
+| 3 | Enter reservation | FleetPortal “New Booking” |
+| 4 | Approve/Submit | Automatic workflow |
+| 5 | Send confirmation | Outlook |
+| 6 | Day-of check | Physical car inspection |
+| 7 | Log mileage & close | FleetPortal “Trip Completion” |
+
+If you encounter any errors or the vehicle you need is unavailable, contact the **Fleet Management Team** at **fleet@yourcompany.com** or call **(555) 123-4567**.",,no,,,,693,1.5,,,
+U06,unanswerable,no,baseline,What time does the cafeteria close?,baseline,The cafeteria closes at **7:00 PM** on weekdays. On weekends it closes at **5:00 PM**.,,no,,,,140,0.6,,,
+G01,general,no,baseline,What is the capital of France?,baseline,Paris.,,no,,,,114,0.5,,,
+G02,general,no,baseline,Explain what a VPN is.,baseline,"A VPN (Virtual Private Network) creates an encrypted “tunnel” between your device and a remote server, routing your internet traffic through that server. This masks your IP address, secures data from eavesdropping, and can make it appear as if you’re accessing the web from a different location. In short, a VPN provides privacy, security, and location-masking for online activity.",,no,,,,192,0.7,,,
+G03,general,no,baseline,Write a short poem about spring.,baseline,"Blossoms wake in gentle light,  
+Birdsong threads the warming air,  
+Green unfurls where snow took flight,  
+Spring whispers life everywhere.",,no,,,,145,0.5,,,

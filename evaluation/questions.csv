@@ -1,0 +1,44 @@
+﻿id,question,type,answerable,expected_answer,gold_source,gold_phrase,must_include
+D01,Where do I collect my laptop on my first day?,direct,yes,IT desk in Room 2B before 9 am,brightline_01_welcome_first_30_days.md,IT desk in Room 2B,Room 2B
+D02,How long is the probation period?,direct,yes,90 days,brightline_01_welcome_first_30_days.md,probation period of 90 days,90
+D03,What day of the month is salary paid?,direct,yes,The 25th,brightline_01_welcome_first_30_days.md,paid on the 25th,25th
+D04,How long must my password be?,direct,yes,At least 14 characters,brightline_02_it_setup_guide.md,at least 14 characters,14
+D05,Who has to use a hardware security key instead of the authenticator app?,direct,yes,Staff in Finance and system administration,brightline_02_it_setup_guide.md,Staff in Finance and system administration,Finance
+D06,What is the maximum hotel cost per night in London?,direct,yes,"190 USD, because London is a high-cost city",brightline_03_expense_and_travel_policy.md,190 USD in high-cost cities,190
+D07,How soon after an expense do I need to submit the claim?,direct,yes,Within 30 days,brightline_03_expense_and_travel_policy.md,within 30 days of the expense,30 days
+D08,Who needs to approve an expense claim of 500 USD?,direct,yes,Your manager and the Finance team,brightline_03_expense_and_travel_policy.md,"200.01 to 1,000 USD | Your manager and the Finance team",Finance
+D09,How much can I claim for a chair or other home office equipment?,direct,yes,Up to 250 USD once every 24 months,brightline_03_expense_and_travel_policy.md,up to 250 USD once every 24 months,250
+D10,Do I need steel toe boots in zone F?,direct,yes,"Yes, boots are required in zones B, E and F",brightline_07_warehouse_safety_rules.md,"Steel toe boots are required in warehouse zones B, E and F",yes
+D11,How quickly must I report a workplace incident?,direct,yes,Within 24 hours using form SAF-F1,brightline_07_warehouse_safety_rules.md,within 24 hours using form SAF-F1,24 hours
+D12,What is the heaviest weight one person may lift alone?,direct,yes,20 kg,brightline_07_warehouse_safety_rules.md,No one may lift more than 20 kg alone,20 kg
+D13,Which certification do I need to drive a forklift?,direct,yes,SAF-210,brightline_07_warehouse_safety_rules.md,require the additional certification SAF-210,SAF-210
+D14,What are the support hours of the IT Helpdesk?,direct,yes,7.30 am to 6 pm on business days,brightline_02_it_setup_guide.md,open from 7.30 am to 6 pm,7.30|7:30
+D15,How long do I have to enroll in company benefits?,direct,yes,Within 14 days of the start date,brightline_01_welcome_first_30_days.md,within 14 days of your start date,14 days
+C01,What is the price of item ITM-20417?,code,yes,96.50 USD,brightline_06_product_catalog_and_ordering.md,ITM-20417 | Heavy duty shelving unit 5 tier,96.50
+C02,Which warehouse bin holds ITM-10016?,code,yes,F-01,brightline_06_product_catalog_and_ordering.md,ITM-10016 | Pallet jack 2500kg,F-01
+C03,What is the lead time for item ITM-10012?,code,yes,10 business days,brightline_06_product_catalog_and_ordering.md,ITM-10012 | Cordless drill 18V,10
+C04,What does error code VPN-807 mean and how do I fix it?,code,yes,The device certificate has expired. Reinstall the VPN profile from the IT portal,brightline_02_it_setup_guide.md,VPN-807 | Your device certificate has expired,certificate
+C05,What is expense code EXP-107 used for?,code,yes,Home office equipment,brightline_03_expense_and_travel_policy.md,EXP-107 | Home office equipment,home office equipment
+C06,What does software code SW-1004 refer to?,code,yes,"The design tool, on request with manager approval",brightline_02_it_setup_guide.md,SW-1004 | Design tool,design tool
+M01,What is the price difference between ITM-20417 and ITM-20418?,multi,yes,57.60 USD (96.50 minus 38.90),brightline_06_product_catalog_and_ordering.md,ITM-20417 | Heavy duty shelving unit 5 tier||ITM-20418 | Shelving unit extension kit,57.60
+M02,I am a new warehouse employee. What must I complete before entering the warehouse and what protective gear is needed in zone E?,multi,yes,"Safety Induction SAF-100. Safety glasses, gloves and steel toe boots",brightline_01_welcome_first_30_days.md||brightline_07_warehouse_safety_rules.md,"Safety Induction (course code SAF-100)||Steel toe boots are required in warehouse zones B, E and F",SAF-100||boots
+M03,How many days of annual leave do I get and how far ahead must I request more than 3 consecutive days?,multi,yes,"20 days, with 10 business days notice",brightline_05_leave_policy_2026.md,receive 20 days of paid annual leave||at least 10 business days in advance,20||10
+M04,How long is probation and how much notice does either side need during probation?,multi,yes,"90 days, and 1 week of written notice",brightline_01_welcome_first_30_days.md,probation period of 90 days||either side can end the employment with 1 week,90||1 week|one week
+V01,How many days of annual leave do I get?,version,yes,"20 days (2026 policy, replaces 18 days)",brightline_05_leave_policy_2026.md,receive 20 days of paid annual leave,20
+V02,How many weeks of parental leave does the primary caregiver get?,version,yes,"16 weeks (2026 policy, replaces 12)",brightline_05_leave_policy_2026.md,primary caregiver receives 16 weeks,16
+V03,After how many days of sick absence do I need a medical certificate?,version,yes,"After 2 consecutive days (2026 policy, replaces 3)",brightline_05_leave_policy_2026.md,required after 2 consecutive days,2
+V04,How many public holidays does the company observe each year?,version,yes,"11 (2026 policy, replaces 10)",brightline_05_leave_policy_2026.md,observes 11 public holidays,11
+Z01,how much time off do i get,vague,yes,"20 days of annual leave, plus sick leave and other leave",brightline_05_leave_policy_2026.md,receive 20 days of paid annual leave,20
+Z02,vpn not working help,vague,yes,Check the VPN error code and contact the IT Helpdesk,brightline_02_it_setup_guide.md,BrightLink VPN client is required,helpdesk
+Z03,can i get paid back for my train ticket,vague,yes,"Yes, submit a claim in ExpenseHub within 30 days",brightline_03_expense_and_travel_policy.md,Submit every claim in the ExpenseHub tool within 30 days,ExpenseHub
+Z04,first day what do i do,vague,yes,"Collect laptop, sign agreement, do safety induction, meet buddy",brightline_01_welcome_first_30_days.md,Collect your laptop from the IT desk in Room 2B before 9 am,laptop
+Z05,lost my phone what now,vague,yes,Report within 2 hours to security@brightline.example,brightline_02_it_setup_guide.md,within 2 hours to security@brightline.example,2 hours
+U01,What is the name of the company's CEO?,unanswerable,no,NOT IN DOCUMENTS,,,
+U02,How large is the annual bonus for new employees?,unanswerable,no,NOT IN DOCUMENTS,,,
+U03,What is the office street address?,unanswerable,no,NOT IN DOCUMENTS,,,
+U04,What is the price of item ITM-99999?,unanswerable,no,NOT IN DOCUMENTS (no such code),,,
+U05,How do I book a company car for a client visit?,unanswerable,no,NOT IN DOCUMENTS,,,
+U06,What time does the cafeteria close?,unanswerable,no,NOT IN DOCUMENTS,,,
+G01,What is the capital of France?,general,no,NOT IN DOCUMENTS (general knowledge),,,
+G02,Explain what a VPN is.,general,no,NOT IN DOCUMENTS (general knowledge),,,
+G03,Write a short poem about spring.,general,no,NOT IN DOCUMENTS (off task),,,

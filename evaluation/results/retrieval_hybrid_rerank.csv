@@ -1,0 +1,44 @@
+﻿id,type,answerable,gold,rank,top_score,score_kind,top_source,search_query
+D01,direct,True,True,1,4.376543045043945,rerank,brightline_01_welcome_first_30_days.md,Where do I collect my laptop on my first day?
+D02,direct,True,True,1,6.823069095611572,rerank,brightline_01_welcome_first_30_days.md,How long is the probation period?
+D03,direct,True,True,1,6.801274299621582,rerank,brightline_01_welcome_first_30_days.md,What day of the month is salary paid?
+D04,direct,True,True,1,3.606579065322876,rerank,brightline_02_it_setup_guide.md,How long must my password be?
+D05,direct,True,True,1,6.578259468078613,rerank,brightline_02_it_setup_guide.md,Who has to use a hardware security key instead of the authenticator app?
+D06,direct,True,True,1,0.8943977355957031,rerank,brightline_03_expense_and_travel_policy.md,What is the maximum hotel cost per night in London?
+D07,direct,True,True,1,7.640380859375,rerank,brightline_03_expense_and_travel_policy.md,How soon after an expense do I need to submit the claim?
+D08,direct,True,True,1,3.5397746562957764,rerank,brightline_03_expense_and_travel_policy.md,Who needs to approve an expense claim of 500 USD?
+D09,direct,True,True,1,7.517184734344482,rerank,brightline_03_expense_and_travel_policy.md,How much can I claim for a chair or other home office equipment?
+D10,direct,True,True,1,7.288258075714111,rerank,brightline_07_warehouse_safety_rules.md,Do I need steel toe boots in zone F?
+D11,direct,True,True,1,4.046448707580566,rerank,brightline_07_warehouse_safety_rules.md,How quickly must I report a workplace incident?
+D12,direct,True,True,1,6.390838623046875,rerank,brightline_07_warehouse_safety_rules.md,What is the heaviest weight one person may lift alone?
+D13,direct,True,True,1,5.100085258483887,rerank,brightline_07_warehouse_safety_rules.md,Which certification do I need to drive a forklift?
+D14,direct,True,True,1,8.228382110595703,rerank,brightline_02_it_setup_guide.md,What are the support hours of the IT Helpdesk?
+D15,direct,True,True,1,7.246433258056641,rerank,brightline_01_welcome_first_30_days.md,How long do I have to enroll in company benefits?
+C01,code,True,True,1,2.245853900909424,rerank,brightline_06_product_catalog_and_ordering.md,What is the price of item ITM-20417?
+C02,code,True,True,1,3.6579270362854004,rerank,brightline_06_product_catalog_and_ordering.md,Which warehouse bin holds ITM-10016?
+C03,code,True,True,2,3.040254831314087,rerank,brightline_06_product_catalog_and_ordering.md,What is the lead time for item ITM-10012?
+C04,code,True,True,1,4.912181377410889,rerank,brightline_02_it_setup_guide.md,What does error code VPN-807 mean and how do I fix it?
+C05,code,True,True,3,5.392815589904785,rerank,brightline_03_expense_and_travel_policy.md,What is expense code EXP-107 used for?
+C06,code,True,True,1,2.9324135780334473,rerank,brightline_02_it_setup_guide.md,What does software code SW-1004 refer to?
+M01,multi,True,True,2,4.571374416351318,rerank,brightline_06_product_catalog_and_ordering.md,What is the price difference between ITM-20417 and ITM-20418?
+M02,multi,True,True,2,4.814912796020508,rerank,brightline_07_warehouse_safety_rules.md,I am a new warehouse employee. What must I complete before entering the warehouse and what protective gear is needed in zone E?
+M03,multi,True,True,1,6.7007527351379395,rerank,brightline_05_leave_policy_2026.md,How many days of annual leave do I get and how far ahead must I request more than 3 consecutive days?
+M04,multi,True,True,1,7.683511734008789,rerank,brightline_01_welcome_first_30_days.md,How long is probation and how much notice does either side need during probation?
+V01,version,True,True,1,8.239664077758789,rerank,brightline_05_leave_policy_2026.md,How many days of annual leave do I get?
+V02,version,True,True,1,9.825971603393555,rerank,brightline_05_leave_policy_2026.md,How many weeks of parental leave does the primary caregiver get?
+V03,version,True,True,1,7.686659336090088,rerank,brightline_05_leave_policy_2026.md,After how many days of sick absence do I need a medical certificate?
+V04,version,True,True,1,8.983171463012695,rerank,brightline_05_leave_policy_2026.md,How many public holidays does the company observe each year?
+Z01,vague,True,True,13,2.430182456970215,rerank,basecamp_how-we-work.md,how much time off do i get
+Z02,vague,True,True,1,0.3302106261253357,rerank,brightline_02_it_setup_guide.md,vpn not working help
+Z03,vague,True,True,17,-7.961173057556152,rerank,dwarves_earn.md,can i get paid back for my train ticket
+Z04,vague,True,True,,5.621683120727539,rerank,clef_Onboarding.md,first day what do i do
+Z05,vague,True,True,1,-1.023161768913269,rerank,brightline_02_it_setup_guide.md,lost my phone what now
+U01,unanswerable,False,False,,-4.124364376068115,rerank,clef_At-Will Employment.md,What is the name of the company's CEO?
+U02,unanswerable,False,False,,0.6939965486526489,rerank,clef_Referral Bonuses.md,How large is the annual bonus for new employees?
+U03,unanswerable,False,False,,-8.733942985534668,rerank,dwarves_marketing-assets.md,What is the office street address?
+U04,unanswerable,False,False,,0.30227553844451904,rerank,brightline_06_product_catalog_and_ordering.md,What is the price of item ITM-99999?
+U05,unanswerable,False,False,,-6.79168701171875,rerank,dwarves_asset-request.md,How do I book a company car for a client visit?
+U06,unanswerable,False,False,,-7.617991924285889,rerank,Added Bytes_Holidays _Added Bytes Company Handbook.pdf,What time does the cafeteria close?
+G01,general,False,False,,-11.176948547363281,rerank,clef_Guide to Your Equity.md,What is the capital of France?
+G02,general,False,False,,-1.8169476985931396,rerank,brightline_02_it_setup_guide.md,Explain what a VPN is.
+G03,general,False,False,,-10.54617691040039,rerank,basecamp_titles-for-designers.md,Write a short poem about spring.

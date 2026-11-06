@@ -1,0 +1,40 @@
+[page 2]
+# Added Bytes Holidays Added Bytes Company Handbook
+
+Background
+If you're interested, there's a blog post which explains some of the thinking behind this policy.
+Principles
+The aims of this policy are to:
+Treat people like adults, empower them to take the time off they need and trust them to manage their time and work.
+Manage expectations. There's a minimum expectation, and there's guidance for what we think is going to be pretty typical.
+Reduce uncertainty. Booking holiday over 20 days isn't stressful, because you know where you stand and what is reasonable.
+
+[page 3]
+Give the company the discretion to ensure the system isn't abused.
+Make it simple for us to show we are adhering to the obligations we have under UK and EU law.
+The Added Bytes Holiday Policy
+To make it a little easier to keep track of holiday taken, we make a distinction between company closures and holidays. Company closures are days you do not need to book off; the company doesn't expect you to work on those days. Please note that those days may vary depending on where you are based (so in the U.K. you would have the spring bank holiday off automatically and in the U.S.A. you would have Thanksgiving off automatically, and so on for whatever holidays apply where you're based).
+How Much Holiday?
+In a typical year, full-time employees have:
+Company Closures
+We close over Christmas, at least for the days between Christmas and New Year
+Everybody gets their national holidays as company closure days
+For example, in the UK, this is 11 days: the Christmas break and normal bank holidays
+20 days of remaining statutory holiday allowance
+Discretionary holiday with no set upper limit
+How Much Is Too Little?
+There is a company-wide minimum holiday expectation of 20 days per year (not including company closures). Unused statutory holiday is not rolled over, so it's definitely better to use those days!
+How Much Is Too Much?
+
+[page 4]
+The company expects people to use around 30-35 days of holiday per year, not including company closures (so 41-46 days of holiday per year in total). Some years it will probably be more (and that's OK!), some will probably be less.
+What About My Country?
+The specifics above are based on the UK calendar, but we want every employee to have the same holiday entitlement wherever they are based. So the minimum holiday expectation is the same wherever you are based, and the expected average is the same wherever you are based.
+Does the Company Pay For Unused Holiday?
+Unused discretionary holiday is not paid out when someone leaves. However, statutory holiday is accrued as it would be in any other company and unused statutory holiday is paid out when someone leaves. If someone leaves the company six months into a holiday year (which runs
+January to December) having taken ten days of holiday (not including company closures), they will have four accrued days left and get paid for those untaken days.
+How Does Holiday Work for Part-Time Employees?
+Part-time employees have the same policy, with the expectations - both minimum and maximum
+- adjusted in line with their hours. If someone works one day per week, their minimum holiday expectation would be 4 days per year, their typical upper expectation (not including closures) would be 6-7 days per year, and their company closures would include 2.2 paid days off.
+How to Book Days Off
+Time off is booked through Slack, using TimeBot.
