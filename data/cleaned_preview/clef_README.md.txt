@@ -1,0 +1,85 @@
+[text]
+# Our Handbook
+
+At Clef, we’re working to build an inclusive company with a value-driven culture. That’s an easy thing to want and say, but it’s difficult to practice because exclusion is the default in our industry. It takes active effort to find the hidden biases in our companies and remove them.
+
+As we started growing our team this year, we looked for a starter-kit of inclusive policies. A lot of great work is being done to discuss cultural problems and their solutions, but it’s coming from a lot of different voices around the web and very little is written in the form of policy.
+
+We wanted to put what we've learned into practice, so we decided to write our own handbook and open source it.
+
+This repository contains all of the policies that we use at Clef. It represents many hours of research, lots of thoughtful debates, and some serious introspection. It’s certainly not perfect, but we think it’s an exciting place to start.
+
+Feel free to fork this repository and use any or all of these policies, and to modify them in whatever way makes sense for your company. We hope that by publishing them, other companies can benefit from our research and make their own policies more inclusive.(mccv has created a templatized version of the Clef handbook to make it easy to use this handbook as a starting point for your own)
+
+All feedback and suggestions (especially in the form of pull requests) are very appreciated. We’ve gotten several different perspectives to help arrive at these policies, but we are certainly missing many more and making mistakes as a result. This is a work in progress that we hope will get better with more time and more contributors.
+
+If these policies sound like a place where you want to work, check out our jobs postings at getclef.com/about.
+
+— B
+
+CEO of Clef
+
+***
+
+## Introduction
+* Mission Statement
+* Clef Values
+
+## Employment Policies
+* Equal Opportunity Employment
+* At-Will Employment
+* Salary and Equity Compensation
+* Code of Conduct in the Community
+* Complaint Policy
+* Drug and Alcohol Policy
+* Employee Privacy
+* Working Remotely
+
+## Hiring Documents
+* Acknowledgement of Receipt
+* Clef Offer Letter
+* Employee Proprietary Information and Inventions Agreement
+* Guide to Your Equity
+* Handbook Introduction
+
+## Onboarding Documents
+* Welcome to Clef
+* Direct Reports
+* Communication and Transparency
+* Objectives and Key Results
+* One on Ones
+* Product Manifesto
+* Effective Meetings
+
+## Operations Documents
+* Sourcing Candidates
+* Interview Process
+* Budgeting
+* Hack Weeks
+* Onboarding
+* Sharing Files
+
+## Benefits and Perks
+* Health Care and Disability Insurance
+* Vacation and Sick Leave
+* Holiday List
+* Referral Bonuses
+* Continuing Education
+* Sabbatical
+* New Parent Leave
+* Other Protected Absences
+
+# Acknowledgements
+
+We hope that many more people will suggest ways for us to improve these policies, and the first version would not have been possible without the thoughtful input from these great folks.
+
+* Angel Lewis
+* Ashe Dryden
+* B
+* Mark Hudnall
+* Jesse Pollak
+* Darrell Jones
+* Grace Wong
+* Julie Horvath
+* Ikka Riley
+* Erica Baker
