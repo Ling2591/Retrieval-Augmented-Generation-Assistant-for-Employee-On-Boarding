@@ -1,0 +1,46 @@
+# Expense and Travel Policy (effective 1 January 2026)
+
+This policy applies to all Brightline employees.
+
+## Submitting claims
+
+Submit every claim in the ExpenseHub tool within 30 days of the expense. A receipt is required for any single expense above 15 USD. Approved claims are reimbursed within 10 business days.
+
+## Approval levels
+
+| Claim amount | Approval needed |
+|---|---|
+| Up to 200 USD | Your direct manager |
+| 200.01 to 1,000 USD | Your manager and the Finance team |
+| Above 1,000 USD | Finance Director, with written approval before the money is spent |
+
+## Expense category codes
+
+| Code | Category |
+|---|---|
+| EXP-101 | Travel transport |
+| EXP-102 | Lodging |
+| EXP-103 | Meals |
+| EXP-104 | Client entertainment |
+| EXP-105 | Office supplies |
+| EXP-106 | Training and courses |
+| EXP-107 | Home office equipment |
+
+## Travel
+
+- Book flights at least 14 days ahead through the TravelDesk service. Economy class is the default. Flights longer than 6 hours may use premium economy with Finance Director approval.
+- Hotel nights are capped at 140 USD in standard cities and 190 USD in high-cost cities. High-cost cities are New York, San Francisco and London.
+- Meals while travelling are capped at 55 USD per day, made up of 12 USD for breakfast, 18 USD for lunch and 25 USD for dinner. Alcohol is never reimbursed.
+- Personal car use for business is reimbursed at 0.58 USD per mile with a logbook.
+
+## Home office equipment
+
+Employees may claim up to 250 USD once every 24 months under EXP-107 for items such as a chair, monitor stand or keyboard. Claims need a receipt and manager approval.
+
+## Company cards
+
+Company credit cards are issued to employees in sales and purchasing roles after they complete probation. Other employees pay personally and claim the money back through ExpenseHub.
+
+## Client entertainment
+
+Client meals and events fall under EXP-104 and need the names of all attendees and the business purpose on the claim. Spending above 80 USD per person needs approval from the Finance team before the event.

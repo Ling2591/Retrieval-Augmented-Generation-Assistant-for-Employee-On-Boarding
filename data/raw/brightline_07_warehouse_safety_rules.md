@@ -1,0 +1,25 @@
+# Warehouse Safety Rules
+
+## Protective equipment
+
+Safety glasses and gloves are required in all picking areas. Steel toe boots are required in warehouse zones B, E and F. New employees collect their first pair of boots from the stores counter and the cost is covered by the company.
+
+## Equipment certification
+
+Manual pallet jacks may be used after the Safety Induction (SAF-100). Powered pallet trucks and forklifts require the additional certification SAF-210, which takes one full day of training and a practical test.
+
+## Manual handling
+
+No one may lift more than 20 kg alone. Heavier loads need a second person or a mechanical aid.
+
+## Incident reporting
+
+Report every incident, including near misses, within 24 hours using form SAF-F1. Injuries must be reported to your supervisor immediately. First aid stations are at the entrance of Zone A and in the Zone D office.
+
+## Emergencies
+
+The evacuation assembly point is the north car park. Fire wardens wear yellow vests. Dial 9 from any office phone and then the local emergency number.
+
+## Visitors
+
+All visitors must sign in at reception, wear a visitor badge and be accompanied at all times in the warehouse.

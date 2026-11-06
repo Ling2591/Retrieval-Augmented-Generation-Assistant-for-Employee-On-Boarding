@@ -1,0 +1,29 @@
+# Leave Policy (effective 1 January 2024)
+
+## Annual leave
+
+Full-time employees receive 18 days of paid annual leave per year, accruing at 1.5 days per month. Up to 5 unused days can be carried over to the next year. Leave of more than 2 consecutive days must be requested at least 5 business days in advance.
+
+## Sick leave
+
+Employees receive 10 days of paid sick leave per year. A medical certificate is required after 3 consecutive days of absence.
+
+## Parental leave
+
+The primary caregiver receives 12 weeks of paid leave and the secondary caregiver receives 2 weeks.
+
+## Bereavement leave
+
+Employees receive 3 days of paid leave on the death of an immediate family member.
+
+## Public holidays
+
+The company observes 10 public holidays per year.
+
+## Leave during probation
+
+Employees in their first 90 days may use leave they have accrued, with manager approval, but not more than 5 consecutive days.
+
+## Contact
+
+Questions about this policy go to the People Team at people@brightline.example.
